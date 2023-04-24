@@ -3,6 +3,7 @@ import ImageGallery from 'react-image-gallery';
 import { images } from './gallery-image';
 
 function App() {
+
   return (
     <div className="App">
       <header className="App-header">
@@ -10,7 +11,7 @@ function App() {
           <ImageGallery items={images} />
         </div>
         <b>
-        memories
+        memory
         </b>
         <p>
           jason qiu
