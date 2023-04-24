@@ -17,7 +17,7 @@ import summer_junior from './images/summer-junior-min.JPG'
 import poker_senior from './images/poker-senior.JPG'
 import weightlifting_senior from './images/weightlifting-senior.JPG'
 import hollows_senior from './images/hollows-senior.JPG'
-import grad_photo_senior from './images/grad-photo-senior.jpeg'
+import tenting from './images/tenting.JPG'
 
 export const images = [
     {
@@ -97,7 +97,7 @@ export const images = [
         thumbnail: weightlifting_senior,
     },
     {
-        original: grad_photo_senior,
-        thumbnail: grad_photo_senior,
+        original: tenting,
+        thumbnail: tenting,
     },
   ];
